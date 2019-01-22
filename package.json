@@ -1,0 +1,26 @@
+{
+  "name": "mideaapp",
+  "version": "1.0.0",
+  "description": "midea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WMZ524268/MideaApp.git"
+  },
+  "keywords": [
+    "midea",
+    "app"
+  ],
+  "author": "wangmingzhen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WMZ524268/MideaApp/issues"
+  },
+  "homepage": "https://github.com/WMZ524268/MideaApp#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
